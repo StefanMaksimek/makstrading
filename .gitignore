@@ -40,3 +40,21 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Umgebungsvariablen
+.env
+
+# Log-Dateien
+/logs
+*.log
+
+# Sicherheitszertifikate (falls verwendet)
+*.pem
+*.key
+*.cert
+
+# Spezifische Dateien vermeiden
+*.bak
+*.tmp
+*.swp
+
