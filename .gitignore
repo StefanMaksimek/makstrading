@@ -44,6 +44,8 @@ Thumbs.db
 # Umgebungsvariablen
 .env
 
+/db.config.js
+
 # Log-Dateien
 /logs
 *.log
